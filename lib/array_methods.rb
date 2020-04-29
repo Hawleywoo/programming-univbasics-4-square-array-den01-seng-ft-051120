@@ -2,4 +2,4 @@ array = [5,1,3,4]
 
 array[1] = 2
 
-puts array.sort!
+puts array.sort!.reverse
